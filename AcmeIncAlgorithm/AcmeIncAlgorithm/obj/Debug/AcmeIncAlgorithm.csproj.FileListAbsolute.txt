@@ -1,0 +1,7 @@
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\bin\Debug\AcmeIncAlgorithm.exe.config
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\bin\Debug\AcmeIncAlgorithm.exe
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\bin\Debug\AcmeIncAlgorithm.pdb
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\obj\Debug\AcmeIncAlgorithm.csprojAssemblyReference.cache
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\obj\Debug\AcmeIncAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\obj\Debug\AcmeIncAlgorithm.exe
+C:\Users\Ari\source\repos\AcmeIncAlgorithm\AcmeIncAlgorithm\obj\Debug\AcmeIncAlgorithm.pdb
